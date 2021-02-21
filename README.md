@@ -4,4 +4,4 @@
  <a href="https://godocs.io/github.com/forensicanalysis/filetype"><img src="https://godocs.io/github.com/forensicanalysis/filetype?status.svg" alt="doc" /></a>
 </p>
 
-Detect the filetype of binary data.
+Detect the filetypes of binary data.
