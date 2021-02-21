@@ -24,6 +24,7 @@ package filetype
 
 import (
 	"bytes"
+
 	"github.com/h2non/filetype/types"
 )
 
